@@ -21,6 +21,25 @@ body {
 	font-size: 1.5rem;
 }
 
+#headingGroup span {
+	color: #ea1c3c;
+}
+
+#headingGroup h1 {
+	font-weight: 100;
+	font-size: 4rem;
+}
+
+
+/*Media queries*/
+
+@media (max-width: 1200px){
+	#headingGroup h1 {
+		font-weight: 100;
+		font-size: 3rem;
+	}
+}
+
 
 
 
