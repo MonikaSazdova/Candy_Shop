@@ -1,2 +1,2 @@
 # Candy_Shop
-Candy shop web page design with Bootstrap 5
+Candy shop web page design with Bootstrap 4
